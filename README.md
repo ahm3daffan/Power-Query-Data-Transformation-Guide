@@ -90,7 +90,9 @@ Select Refresh to automatically update with the latest data.
 
 📺 Tutorial Reference
 This walkthrough is based on the video:
+https://www.notion.so/Power-Query-1e9f1306267c802a84a9d8bb12fda79e
 Power Query Data Transformation Guide (YouTube)
+https://www.youtube.com/watch?v=UAFExySaSPY&list=PLmejDGrsgFyDMME3o2CamamZ8w9NxSWWo&index=4
 
 📌 Notes
 Power Query transformations do not alter the source file.
